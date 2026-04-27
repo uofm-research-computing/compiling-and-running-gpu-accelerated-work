@@ -5,4 +5,4 @@ This is slides and examples for University of Memphis Research Computing seminar
 Contains some examples for compiling and running on BigBlue.
 
 ## seminar2026Mar27.pdf
-Contains slides and links for this seminar.  
+Contains slides and links for this seminar.  Video on [digital commons](https://digitalcommons.memphis.edu/research-computing-seminar-series/7/).
